@@ -17,3 +17,4 @@ This is a Java application to check if a given string is a palindrome.
 
 - UC1: Application Entry & Welcome Message
 - UC2: HardCodePalindrome
+- UC3: UserInputPalindrome
